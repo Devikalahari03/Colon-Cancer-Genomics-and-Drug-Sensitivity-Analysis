@@ -1,4 +1,4 @@
-# Colon-Cancer-Genomics-and-Drug-Sensitivity-Analysis
+# Colon Cancer Genomics and Drug Sensitivity Analysis
 
 This project focuses on the genomics and drug sensitivity analysis for colon cancer, utilizing datasets from GDSC1, GDSC2, cell line information, and compounds. The project implements data preprocessing, exploratory data analysis, and machine learning modeling to predict drug sensitivity (AUC) values for different compounds tested on colon cancer cell lines.
 
